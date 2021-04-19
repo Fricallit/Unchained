@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SpikeChasm
+  m_Controller: {fileID: 9100000, guid: 20476ebbefd4c1742a91072873fdfdd3, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: ba52d431730fce045b0f0fe49b0f2292, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 73373d3b0adb7db42a4cc362f69bdcbf, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 74ff41dcaed22ec4eaa8805c3dedbd20, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 73373d3b0adb7db42a4cc362f69bdcbf, type: 2}

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d8eebd9464792f34fa8e0969cc011ec6
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Exocet Cyrillic
+  fontNames:
+  - Exocet Cyrillic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3c3ad279f0e9f2041a79797978c6afc4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
