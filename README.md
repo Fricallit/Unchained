@@ -2,7 +2,7 @@
 Simple 2D Roguelike game made with Unity
 
 Features:
-- Three tipes of enemies
+- Three types of enemies
 - Custom graphics and sounds
 - Randomly generated levels
 - Save system
